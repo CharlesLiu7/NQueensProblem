@@ -7,6 +7,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NQueensProblem", "NQueensPr
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SimulateAnnealingPy", "SimulateAnnealingPy\SimulateAnnealingPy.pyproj", "{4AA9089F-3A98-4D06-B921-3EBD23A533E2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SimulateAnnealingC", "SimulateAnnealingC\SimulateAnnealingC.vcxproj", "{DC05086A-D384-49DE-ADE8-9CAEC8C3C61D}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "HillClimbingPy", "HillClimbingPy\HillClimbingPy.pyproj", "{F4688D5C-3022-442B-8577-254C41829257}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,22 @@ Global
 		{4AA9089F-3A98-4D06-B921-3EBD23A533E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4AA9089F-3A98-4D06-B921-3EBD23A533E2}.Release|x64.ActiveCfg = Release|Any CPU
 		{4AA9089F-3A98-4D06-B921-3EBD23A533E2}.Release|x86.ActiveCfg = Release|Any CPU
+		{DC05086A-D384-49DE-ADE8-9CAEC8C3C61D}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{DC05086A-D384-49DE-ADE8-9CAEC8C3C61D}.Debug|x64.ActiveCfg = Debug|x64
+		{DC05086A-D384-49DE-ADE8-9CAEC8C3C61D}.Debug|x64.Build.0 = Debug|x64
+		{DC05086A-D384-49DE-ADE8-9CAEC8C3C61D}.Debug|x86.ActiveCfg = Debug|Win32
+		{DC05086A-D384-49DE-ADE8-9CAEC8C3C61D}.Debug|x86.Build.0 = Debug|Win32
+		{DC05086A-D384-49DE-ADE8-9CAEC8C3C61D}.Release|Any CPU.ActiveCfg = Release|Win32
+		{DC05086A-D384-49DE-ADE8-9CAEC8C3C61D}.Release|x64.ActiveCfg = Release|x64
+		{DC05086A-D384-49DE-ADE8-9CAEC8C3C61D}.Release|x64.Build.0 = Release|x64
+		{DC05086A-D384-49DE-ADE8-9CAEC8C3C61D}.Release|x86.ActiveCfg = Release|Win32
+		{DC05086A-D384-49DE-ADE8-9CAEC8C3C61D}.Release|x86.Build.0 = Release|Win32
+		{F4688D5C-3022-442B-8577-254C41829257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4688D5C-3022-442B-8577-254C41829257}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F4688D5C-3022-442B-8577-254C41829257}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F4688D5C-3022-442B-8577-254C41829257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4688D5C-3022-442B-8577-254C41829257}.Release|x64.ActiveCfg = Release|Any CPU
+		{F4688D5C-3022-442B-8577-254C41829257}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
